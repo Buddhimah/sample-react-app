@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://api.asgardeo.io/t/buddhimacybertruck",
+    "clientID": "PV1Ny59hps8S4teV7JBUHN60z1Ya",
+    "scope": [
+        "openid",
+        "profile"
+    ],
+    "signInRedirectURL": "https://localhost:3000",
+    "signOutRedirectURL": "https://localhost:3000"
+}
